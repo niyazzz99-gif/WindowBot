@@ -1,0 +1,22 @@
+# Секреты
+.env
+credentials/
+*service_account*.json
+*credentials*.json
+
+# Локальные данные
+data/
+*.db
+*.db-journal
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
