@@ -495,14 +495,11 @@ flowchart LR
 
 ## Скриншоты
 
-> Плейсхолдеры: положите реальные скриншоты в `docs/screenshots/` (`create_task.png` и т.д.)
-> и замените расширение `.svg` → `.png` в ссылках ниже.
-
 | | |
 |---|---|
-| ![Создание задачи](docs/screenshots/create_task.svg) | ![Карточка подтверждения](docs/screenshots/confirm_card.svg) |
+| ![Создание задачи](docs/screenshots/create_task.png) | ![Карточка подтверждения](docs/screenshots/confirm_card.png) |
 | *Задача сохранена сразу* | *Карточка подтверждения* |
-| ![Утренняя сводка](docs/screenshots/digest.svg) | ![Таблица](docs/screenshots/sheet.svg) |
+| ![Утренняя сводка](docs/screenshots/digest.png) | ![Таблица](docs/screenshots/sheet.png) |
 | *Утренняя сводка* | *Лист «Задачи» в Google Sheets* |
 
 ---
